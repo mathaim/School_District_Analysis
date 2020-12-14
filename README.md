@@ -47,16 +47,24 @@ We are working on a project to uncover data trends within a single school distri
 
 ![spending](Images/spendingrates.PNG)
 
-- Schools that spend less than $584 per capita have an increase in Overall Passing from 81% to 90%.
+- Replacing the ninth-grade scores did not affect scores by school spending in a meaningful way.
 
 ### How does replacing the ninth-grade scores affect scores by school size?
 
 ![size](Images/size.PNG)
 
+- Replacing the ninth-grade scores did not affect the scores by school size in a meaningful way.
+
 ### How does replacing the ninth-grade scores affect scores by school type?
 
 ![type](Images/type.PNG)
 
+- Replacing the ninth-grade scores did not affect the scores by school type in a meaningful way.
 ## 3. Summary: 
 
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
+In summary, when we replaced the ninth grade at Thomas High School have been replaced with NaNs, there were four noteworthy changes in the district summary. 
+
+1. Overall passing rate decreased
+2. Math passing rate decreased
+3. Reading passing rate decreased
+4. Average math score decreased
