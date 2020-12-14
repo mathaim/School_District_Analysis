@@ -15,42 +15,42 @@ We are working on a project to uncover data trends within a single school distri
 
 How is the district summary affected?
 
-![DistrictSummary](Images/District_Summary.png)
+![DistrictSummary](Images/District_Summary.PNG)
 
 - By dropping the innacurate 9th grade data, we see slight changes in our district summary. Prior to dropping the data, we showed 65.2% of students in the district passing both math and reading tests. After dropping the data, we show only 64.9% of students in the district passing both tests. This drop in percentage is because the % Passing Math went from 75.0% to 74.8% and the % Passing Reading went from 85.8% to 85.7%. Similarily, the districts average scores have decreased from 70.0 to 78.9 for math. This makes sense we dropped data of kids that cheated, so their recorded scores were probably high. When we lose these values, we expect the average to drop. Average reading score stayed the same. 
 
 How is the school summary affected?
 
- ![SchoolSummary](Images/SchoolSummary.png)
+ ![SchoolSummary](Images/SchoolSummary.PNG)
  
  - The only school that has changed is Thomas High School, which makes sense. The percentage of overall passing drops slightly from 90.94% to 90.63%. It makes sense that we wouldn't observe a huge drop in percentage, as the denominator now excludes 9th graders as well. We see similar slight drops in percentage of reading passed and percentage of math passed. Average math score also dropped slightly. Interestingly, the average reading score increased slightly from 83.94% to 83.89% after we dropped the 9th graders. 
   
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
- ![top5](Images/Top5.png)
+ ![top5](Images/Top5.PNG)
  
  - Thomas High School still ranks 2nd in terms of % Overall Passing, behind only Cabrera High School.
  
 How does replacing the ninth-grade scores affect the following:
 - Math scores by grade
 
-![math](Images/mathbygrade.png)
+![math](Images/mathbygrade.PNG)
 
 - Reading scores by grade
 
-![reading](Images/readingbygrade.png)
+![reading](Images/readingbygrade.PNG)
 
 - Scores by school spending
 
-![spending](Images/spendingrates.png)
+![spending](Images/spendingrates.PNG)
 
 - Scores by school size
 
-![size](Images/size.png)
+![size](Images/size.PNG)
 
 - Scores by school type
 
-![type](Images/type.png)
+![type](Images/type.PNG)
 
 ## 3. Summary: 
 
