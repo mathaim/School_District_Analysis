@@ -45,7 +45,7 @@ We are working on a project to uncover data trends within a single school distri
 
 ### How does replacing the ninth-grade scores affect scores by school spending?
 
-![spending](Images/spendingrates.PNG)
+![spend](Images/spendingrates.PNG)
 
 - Replacing the ninth-grade scores did not affect scores by school spending in a meaningful way.
 
