@@ -35,7 +35,7 @@ We are working on a project to uncover data trends within a single school distri
 
 ![math](Images/mathbygrade.PNG)
 
-- The ninth grade average reading score dropped from 78.94 to 78.74. The other grades' averages remained the same, which we expected.
+- The ninth grade average math score dropped from 78.94 to 78.74. The other grades' averages remained the same, which we expected.
 
 ### How does replacing the ninth-grade scores affect reading scores by grade?
 
