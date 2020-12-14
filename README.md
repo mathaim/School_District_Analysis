@@ -51,7 +51,7 @@ We are working on a project to uncover data trends within a single school distri
 
 ### How does replacing the ninth-grade scores affect scores by school size?
 
-![size](Images/size.PNG)
+![size](Images/schoolsize.PNG)
 
 - Replacing the ninth-grade scores did not affect the scores by school size in a meaningful way.
 
@@ -62,7 +62,7 @@ We are working on a project to uncover data trends within a single school distri
 - Replacing the ninth-grade scores did not affect the scores by school type in a meaningful way.
 ## 3. Summary: 
 
-In summary, when we replaced the ninth grade at Thomas High School have been replaced with NaNs, there were four noteworthy changes in the district summary. 
+In summary, when we replaced the ninth grade at Thomas High School have been replaced with NaNs, there were four noteworthy changes in the district summary:
 
 1. Overall passing rate decreased
 2. Math passing rate decreased
